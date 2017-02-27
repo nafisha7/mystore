@@ -1,0 +1,2 @@
+# mystore
+inventiory management system
